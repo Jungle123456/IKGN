@@ -1,2 +1,0 @@
-# IKGN
-IKGN Code
